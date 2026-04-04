@@ -8,4 +8,5 @@ catboost==1.2.2
 xgboost
 dill
 flask
+gunicorn
 #-e .
