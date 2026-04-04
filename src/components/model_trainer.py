@@ -45,8 +45,8 @@ class ModelTrainer:
                 "Gradient Boosting":GradientBoostingRegressor(),
                 "Linear Regression":LinearRegression(),
                 "KNeighborsRegressor":KNeighborsRegressor(),
-                "XGBRegressor":XGBRegressor(),
-                "CatBoosting Regressor":CatBoostRegressor(),
+                # "XGBRegressor":XGBRegressor(),
+                # "CatBoosting Regressor":CatBoostRegressor(),
                 "AdaBoost Regressor":AdaBoostRegressor()
             }
             params={
