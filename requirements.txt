@@ -4,8 +4,8 @@ numpy
 #ipykernel
 #matplotlib
 scikit-learn
-catboost==1.2.2
-xgboost
+#catboost==1.2.2
+#xgboost
 dill
 flask
 gunicorn
